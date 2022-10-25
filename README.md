@@ -1,2 +1,2 @@
 # vulnweb
-Websites for web vulnerability demonstration
+Welcome to the vulnweb, a series of websites designed to demonstrate very basic cybersecurity vulnerabilities. 
